@@ -1,1 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+    height: 100vh;
+    }
+    .container{
+        width: 400px;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgb(44, 44, 44);
+        border: 1px solid black;
+        text-align: center;
+        border-radius: 5px;
+        border: none;
+    }
+    .header{
+        background-color: blue;
+        padding: 10px;
+        font-size: 1.5rem;
+        color:#fff;
+        border-bottom: 1px solid black;
+        margin-bottom: 5px;
+    }
+    #pass-input{
+        width: 75%;
+        font-size: 1.4rem;
+        border: none;
+    outline: none;
+    font-weight: bold;
+    padding: 10px;
+    position: relative;
+    
+    }
+    .display{
+        margin-bottom: 5px;
+    
+    }
+    #copy{
+        border: none;
+        color:#fff;
+        background-color: blue;
+        width: 15%;
+        padding: 2px;
+        font-size: larger;
+        border-radius: 4.5px;
+        padding-right: 5px;
+    }
+    #setting{
+        display: flex;
+        justify-content: space-between;
+        padding: 0px 15px 7.5px 15px;
+        font-size: 1.2rem;
+        font-weight: bold;
+        margin-bottom: 5px;
+
+    }
+    #generator{
+        width: 100%;
+        background-color: blue;
+        color:#fff;
+        padding: 10px;
+        border: none;
+        font-size: 1.2rem;
+        font-weight: bold;
+    }
+
+    
