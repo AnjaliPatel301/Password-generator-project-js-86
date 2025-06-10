@@ -25,6 +25,8 @@ This is a simple and user-friendly **Password Generator** built using **HTML, CS
 ##  Demo
 
 
+![Screenshot_10-6-2025_52525_127 0 0 1](https://github.com/user-attachments/assets/ead152aa-b6ba-451b-a73e-a2cf7c4f088d)
+
 
 ## 💡 How to Use
 
