@@ -24,7 +24,7 @@ This is a simple and user-friendly **Password Generator** built using **HTML, CS
 
 ##  Demo
 
-![Password Generator Screenshot](screenshot.png) <!-- (Optional) add screenshot if available -->
+
 
 ## 💡 How to Use
 
@@ -45,5 +45,8 @@ This is a simple and user-friendly **Password Generator** built using **HTML, CS
 └── README.md
 
 
-Made by [Anjali] ❤ ![KissesGIF](https://github.com/user-attachments/assets/84728b7b-9d99-4a75-844f-d478724780ec);![TontonHeartRunningGIF](https://github.com/user-attachments/assets/3c72a94b-2ef4-4595-9109-1ae2cb819a48)
+Made by [Anjali] ❤ 
+
+
+;![TontonHeartRunningGIF](https://github.com/user-attachments/assets/3c72a94b-2ef4-4595-9109-1ae2cb819a48)
 
